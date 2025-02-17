@@ -1,3 +1,6 @@
+Codul sursa se afla in src/lab_m1/Tema1
+
+
 # GFX Framework
 
 ## :sparkles: Introduction
